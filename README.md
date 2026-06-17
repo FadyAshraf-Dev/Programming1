@@ -1,4 +1,4 @@
-# 💻 Programming1 — The C Foundations
+# 💻 Programming 1 — The C Foundations
 
 This repository contains my personal, entirely hand-written solutions for my introductory C programming course sheets. No AI assistants, no external code generators—just pure logic, trial-and-error, and core problem-solving code that I built entirely by myself.
 
