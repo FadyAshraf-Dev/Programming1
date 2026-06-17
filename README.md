@@ -25,7 +25,7 @@ The project tracks core structured programming concepts divided by course handou
 To run these raw C source files locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/FadyAshraf-Dev/Programming1/
    ```
 2. Compile any file using a standardized C compiler (like GCC):
    ```bash
